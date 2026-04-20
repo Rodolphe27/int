@@ -60,7 +60,7 @@ document.addEventListener("alpine:init", () => {
             image:
               "https://plus.unsplash.com/premium_photo-1678566111481-8e275550b700?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29kZXxlbnwwfHwwfHx8MA%3D%3D",
             description: `
-            A community platform designed for kids and teenagers to discover local events, connect with friends, and share feedback. Built as a team project using a microservices architecture—Angular frontend, NestJS BFF, Spring Boot backend, RabbitMQ for messaging, and CouchDB for storage. A solid dive into real-world software engineering!
+            A community platform designed for kids and teenagers to discover local events, connect with friends, and share feedback. Built as a team project using a microservices architecture—Angular frontend, NestJS BFF, Spring Boot backend, RabbitMQ for messaging, and CouchDB for storage. My role focused mainly on the backend and infrastructure. The main goal was to learn and get hands-on experience with these technologies while building something meaningful!
             `,
           },
        
